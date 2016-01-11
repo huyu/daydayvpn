@@ -10,7 +10,7 @@ $this->title = 'daydayvpn合作社';
         <h1>免费vpn账号</h1>
 
         <p class="lead">
-        本vpn服务只支持pptp形式
+        本vpn服务只支持pptp形式,通过本vpn服务可以翻墙国内，本服务仅为个人娱乐用。
         <pre>
         
         服务器地址：
