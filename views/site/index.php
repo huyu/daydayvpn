@@ -2,18 +2,30 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'daydayvpn合作社';
 ?>
 <div class="site-index">
 
     <div class="jumbotron">
         <h1>免费vpn账号</h1>
 
-        <p class="lead">public/publicpass/publicpskhere,每天免费提供10个链接</p>
+        <p class="lead">
+        本vpn服务只支持pptp形式
+        <pre>
+        
+        服务器地址：
+        pipe.daydayvpn.com
+        免费用户名：
+        public
+        免费用户密码：
+        publicpass
+        </pre>
+        每天免费提供10个链接</p>
 
         <p><a class="btn btn-lg btn-success" href="javascript:alert(':)现在点了也没用，请继续关注！')">没有抢到的同学，点这里</a></p>
     </div>
 
+<!-- 
     <div class="body-content">
     
         <div class="row">
@@ -39,4 +51,5 @@ $this->title = 'My Yii Application';
         </div>
 
     </div>
+    -->
 </div>
